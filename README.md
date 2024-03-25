@@ -1,2 +1,2 @@
 # Web
-<img src="WEB/3.jpg" alt="profile image">
+<img src="WEB/Снимок экрана (43).png" alt="profile image">
