@@ -1,2 +1,2 @@
 # Web
-<img src="Web/3.jpg" alt="profile image">
+<img src="WEB/3.jpg" alt="profile image">
